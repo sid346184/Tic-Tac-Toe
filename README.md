@@ -7,7 +7,9 @@ The code represents a console-based Tic-Tac-Toe game written in C++. It uses a 3
 Players are prompted to enter their moves alternately.
 User input is validated to ensure it corresponds to a valid position on the board.
 If a player attempts to make a move in an already occupied position, an error message is displayed, and the player is prompted to enter a valid move.
-🚀 Key Functions:
+
+### 🚀 Key Functions:
+
 ```
 gameBase(): Renders the current state of the Tic-Tac-Toe board, providing a visual representation to the players.
 
