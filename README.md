@@ -42,7 +42,9 @@ The winner is determined based on the last move made before the game loop exits.
 
 This project provided an opportunity to practice conditional statements, loops, arrays, and user input handling.
 It showcases good coding practices such as modularity, error handling, and a clear game structure.
-🤝 Feedback and Collaboration:
+
+### 🤝 Feedback and Collaboration:
+
 As I reflect on this project, I welcome feedback and collaboration opportunities from the coding community. I'm eager to learn, grow, and contribute to future projects.
 
 Feel free to reach out for a more in-depth discussion or if you have specific questions about the code implementation! 🚀
